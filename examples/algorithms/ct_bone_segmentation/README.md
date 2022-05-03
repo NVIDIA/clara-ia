@@ -2,6 +2,13 @@
 
 The algorithm extracts largest connected bone in input CT data. It is an iterative algorithm that combines several cuda accelerated computer vision primitives. 
 
+<div style="display: flex; width: 100%; justify-content: center;">
+  <div style="padding: 5px; height: 200px;">
+    <img src="images/orig_stack.gif" alt="orig_data"/>
+    <img src="images/bone_stack.gif" alt="bone_mask"/>
+ </div>
+</div>
+
 ## Data supported
 
 Metaheader (MHD) format is supported. 
