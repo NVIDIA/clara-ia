@@ -1,0 +1,2 @@
+coronacases_008.mhd filter=lfs diff=lfs merge=lfs -text
+coronacases_008.raw filter=lfs diff=lfs merge=lfs -text
