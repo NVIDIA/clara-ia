@@ -25,6 +25,7 @@ Metaheader (MHD) format is supported.
 * `outputfile` is the path to output mhd file. This will be the output bone mask.
 * `logs`: set it to `1` if certain execution details are desired from the algorithm.
 * `iterations`: Maximum number of iterations. Maximum value: 12.
+  Algorithm iteratively finds bone pixels from the data. Noise can be controlled by reducing the number of iterations. Additional parameters will be exposed in future releases. 
 
 ### Execution
 

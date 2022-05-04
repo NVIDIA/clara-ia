@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-inputfile = "/home/shekhar/Workspace/datasets/bone_data/samples/8/coronacases_008.mhd"
+inputfile = "../data/case8/coronacases_008.mhd"
 outputfile = "/home/shekhar/temp/output1.mhd"
 
 from clara.imaging import algos as cta
