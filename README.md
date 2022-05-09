@@ -27,4 +27,4 @@ Execute the sample code present in `examples` folder. Update the script with app
 
 Apache-2.0 License (see [LICENSE](LICENSE) file).
 
-Copyright (c) 2022-2023, NVIDIA CORPORATION.
+Copyright (c) 2021-2022, NVIDIA CORPORATION.
